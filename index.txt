@@ -5,6 +5,12 @@
   "Screw the Nether",
   "How do i craft this again",
   "Take Back The Night",
-  "Dont mine at night"
+  "Dont mine at night",
+  "The Miner",
+  "One More Fright",
+  "Fallen Kingdom",
+  "Hunger Games",
+  "Mine It Out"
   }
+
 
